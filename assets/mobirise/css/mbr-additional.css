@@ -1776,6 +1776,29 @@ body {
 .cid-qTkA127IK8 H3 {
   color: #ffffff;
 }
+.cid-raDt4rG5Fc {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-raDt4rG5Fc .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-raDt4rG5Fc .section-text {
+  padding: 2rem 0;
+}
+.cid-raDt4rG5Fc .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-raDt4rG5Fc .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-raD9gvrqzj {
   padding-top: 90px;
   padding-bottom: 90px;
