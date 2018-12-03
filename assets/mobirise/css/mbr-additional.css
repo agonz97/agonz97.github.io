@@ -1768,7 +1768,7 @@ body {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #ff7f9f !important;
+  color: #7fdbfd !important;
 }
 .cid-qTkA127IK8 {
   background-image: url("../../../assets/images/img-9018-2000x1333.jpg");
@@ -1779,17 +1779,18 @@ body {
 .cid-raDt4rG5Fc {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #ffffff;
 }
 .cid-raDt4rG5Fc .line {
-  background-color: #ffffff;
-  color: #ffffff;
+  background-color: #232323;
+  color: #232323;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
 .cid-raDt4rG5Fc .section-text {
   padding: 2rem 0;
+  color: #232323;
 }
 .cid-raDt4rG5Fc .inner-container {
   margin: 0 auto;
@@ -1800,16 +1801,19 @@ body {
   }
 }
 .cid-raOOgpU6xT {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #232323;
 }
 .cid-raOOgpU6xT .mbr-section-subtitle {
   color: #767676;
 }
+.cid-raOOgpU6xT I {
+  color: #ffffff;
+}
 .cid-raONbOApfH {
-  padding-top: 15px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 60px;
   background-color: #efefef;
 }
 .cid-raONbOApfH .card-img {
@@ -1847,9 +1851,20 @@ body {
     -webkit-flex: 0 0 20%;
   }
 }
+.cid-rbclNxKqrs {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #232323;
+}
+.cid-rbclNxKqrs .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rbclNxKqrs H2 {
+  color: #ffffff;
+}
 .cid-raD5BZkb7H {
-  padding-top: 0px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 30px;
   background-color: #efefef;
 }
 .cid-raD5BZkb7H .mbr-section-subtitle {
@@ -1960,16 +1975,19 @@ body {
   text-align: left;
 }
 .cid-raOPo1QqhA {
-  padding-top: 0px;
+  padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #232323;
 }
 .cid-raOPo1QqhA .mbr-section-subtitle {
   color: #767676;
 }
+.cid-raOPo1QqhA I {
+  color: #ffffff;
+}
 .cid-raOPIvNALT {
-  padding-top: 0px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #efefef;
 }
 .cid-raOPIvNALT .card-box {
@@ -2004,9 +2022,20 @@ body {
 .cid-raOPIvNALT .card-title {
   text-align: center;
 }
+.cid-rbcmxW7eOJ {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #232323;
+}
+.cid-rbcmxW7eOJ .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rbcmxW7eOJ I {
+  color: #ffffff;
+}
 .cid-raD7WOCOW9 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-raD7WOCOW9 .title {
