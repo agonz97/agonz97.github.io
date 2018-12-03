@@ -600,6 +600,9 @@
             },
             "H2": {
               "color": "#ffffff"
+            },
+            "I": {
+              "color": "#ffffff"
             }
           },
           "_name": "content4",
