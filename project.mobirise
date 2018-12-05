@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Personal",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -25,7 +25,7 @@
         "display4Size": 1,
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#7fdbfd"
@@ -35,13 +35,15 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 30,
-    "versionPublish": "4.8.8"
+    "versionPublish": "4.8.8",
+    "favicon": "@PROJECT_PATH@/assets/images/wc-128x129.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "About",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
