@@ -1818,7 +1818,7 @@ body {
 }
 .cid-raONbOApfH .card-box {
   padding: 2rem;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-raONbOApfH h4 {
   font-weight: 500;
@@ -1829,7 +1829,7 @@ body {
   text-align: left;
 }
 .cid-raONbOApfH .mbr-text {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-raONbOApfH .card-wrapper {
   height: 100%;
@@ -1847,6 +1847,9 @@ body {
     padding: 15px;
     -webkit-flex: 0 0 20%;
   }
+}
+.cid-raONbOApfH .card-title {
+  color: #ffffff;
 }
 .cid-raD5BZkb7H {
   padding-top: 30px;
